@@ -4,7 +4,7 @@
 # 기본 사이트 설정 (Basic Site Settings)
 locale: "ko-KR"
 site_theme: "contrast"
-title: "Luna's Security & Dev Log"
+title: "Luna's Security Log"
 title_separator: "-"
 name: &name "Luna"
 description: &description "보안 공부 내용을 기록하는 공간입니다."
