@@ -1,7 +1,10 @@
-# Basic Site Settings
+# Welcome to Jekyll!
+# 루나님의 보안 및 개발 로그를 위한 최적화 설정입니다.
+
+# 기본 사이트 설정 (Basic Site Settings)
 locale: "ko-KR"
 site_theme: "contrast"
-title: "Luna_Blog"
+title: "Luna's Security & Dev Log"
 title_separator: "-"
 name: &name "Luna"
 description: &description "보안 공부 내용을 기록하는 공간입니다."
@@ -9,37 +12,76 @@ url: "https://1120luna.github.io"
 baseurl: "" 
 repository: "1120luna/1120luna.github.io"
 
-# Site Author
+# 사이트 작성자 설정 (Site Author - 사이드바 프로필)
 author:
   avatar: "profile.png"
   name: "Luna"
-  bio: "Security"
+  bio: "Security & Development"
   location: "South Korea"
   employer: "University Student"
   github: "1120luna"
 
-# Site Settings
+# 카테고리 정의 (총 6개)
+publication_category:
+  ctf:
+    title: 'CTF / Wargame'
+  development:
+    title: '개발 (Development)'
+  bugbounty:
+    title: '버그바운티'
+  research:
+    title: '논문 / 컨퍼런스'
+  docs:
+    title: '블로그 / 기술문서'
+  career:
+    title: '공모전 / 자격증'
+
+# 사이트 세부 설정
 breadcrumbs: true
 words_per_minute: 160
 future: true
 read_more: "disabled"
-atom_feed:
-  hide: true  # FEED 아이콘 제거
 
-# Conversion & Plugins
+# 하단 FEED 아이콘 숨기기 설정
+atom_feed:
+  hide: true
+
+# 분석 도구 및 댓글 (사용 안 함 설정)
+analytics:
+  provider: "false"
+comments:
+  provider: false
+
+# 빌드 시 포함/제외 설정
+include:
+  - .htaccess
+  - _pages
+  - files
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .github
+  - node_modules
+  - Gemfile
+  - README
+  - vendor
+
+# 마크다운 및 출력 설정
 markdown: kramdown
 highlighter: rouge
 permalink: /:categories/:title/
 timezone: Asia/Seoul
 
+# 플러그인 설정
 plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-redirect-from
   - jemoji
 
-# Defaults
+# 기본 레이아웃 적용 (Defaults)
 defaults:
   - scope:
       path: ""
@@ -57,3 +99,9 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+# HTML 압축
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
