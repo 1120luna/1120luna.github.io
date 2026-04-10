@@ -1,33 +1,25 @@
-# The following is the order of the links in the header of the website.
-#
-# Changing the order here will adjust the order and you can also add additional
-# links. Removing a link prevents it from showing in the header, but does not
-# prevent it from being included in the site.
-#
-# NOTE that only one of the CV options should be selected, the first is for the
-#      Markdown formatted page while the second is generated using JSON.
+# 상단 내비게이션 바 설정
+# title: 화면에 표시될 이름
+# url: 클릭했을 때 이동할 경로
 
 main:
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
+  - title: "전체 글"
     url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
+
+  - title: "CTF/Wargame"
+    url: /ctf/
+
+  - title: "개발"
+    url: /development/
+
+  - title: "버그바운티"
+    url: /bugbounty/
+
+  - title: "보안 연구"
+    url: /research/
+
+  - title: "기술 문서"
+    url: /docs/
+
+  - title: "커리어"
+    url: /career/
