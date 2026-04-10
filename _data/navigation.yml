@@ -9,17 +9,17 @@ main:
   - title: "CTF/Wargame"
     url: /ctf/
 
-  - title: "개발"
+  - title: "개발/오픈소스"
     url: /development/
 
   - title: "버그바운티"
     url: /bugbounty/
 
-  - title: "보안 연구"
+  - title: "논문/컨퍼런스"
     url: /research/
 
   - title: "블로그/기술 문서"
     url: /docs/
 
-  - title: "자격증/공모전"
+  - title: "공모전/자격증"
     url: /career/
