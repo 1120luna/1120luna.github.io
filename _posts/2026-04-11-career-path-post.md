@@ -1,7 +1,7 @@
 ---
 title: "Career Path"
 categories:
-  - docs
+  -  docs
 tags:
   - [Bolg, Career]
 ---
