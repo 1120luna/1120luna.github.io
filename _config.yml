@@ -35,6 +35,8 @@ publication_category:
     title: '블로그 / 기술문서'
   career:
     title: '공모전 / 자격증'
+  project:
+    title: '프로젝트'
 
 # 사이트 세부 설정
 breadcrumbs: true
