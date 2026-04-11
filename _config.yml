@@ -21,7 +21,7 @@ author:
   employer: "University Student"
   github: "1120luna"
 
-# 카테고리 정의 (총 6개)
+# 카테고리 정의 (총 7개)
 publication_category:
   ctf:
     title: 'CTF / Wargame'
