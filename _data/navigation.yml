@@ -6,8 +6,8 @@ main:
   - title: "전체 글"
     url: /year-archive/
 
-  - title: "CTF/Wargame"
-    url: /ctf/
+ - title: "프로젝트"
+    url: /project/
 
   - title: "개발/오픈소스"
     url: /development/
@@ -23,6 +23,6 @@ main:
 
   - title: "공모전/자격증"
     url: /career/
-  
-  - title: "프로젝트"
-    url: /project/
+    
+  - title: "CTF/Wargame"
+    url: /ctf/
