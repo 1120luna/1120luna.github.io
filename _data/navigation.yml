@@ -23,3 +23,6 @@ main:
 
   - title: "공모전/자격증"
     url: /career/
+  
+  - title: "프로젝트"
+    url: /project/
