@@ -9,7 +9,7 @@ title_separator: "-"
 name: &name "Luna"
 description: &description "보안 공부 내용을 기록하는 공간입니다."
 url: "https://1120luna.github.io"
-baseurl: "" 
+baseurl: ""
 repository: "1120luna/1120luna.github.io"
 
 # 사이트 작성자 설정 (Site Author - 사이드바 프로필)
