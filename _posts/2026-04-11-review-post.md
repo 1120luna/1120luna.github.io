@@ -3,7 +3,7 @@ title: "지금까지의 회고"
 categories:
   -  docs
 tags:
-  - [Bolg, Career]
+  - [Bolg]
 ---
 
 ## 개발
