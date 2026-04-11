@@ -1,9 +1,8 @@
 ---
 title: "지금까지의 회고"
-categories:
-  -  docs
-tags:
-  - [Bolg]
+date: 2026-04-11 21:20:00 +0900
+categories: [docs]
+tags: [Blog]
 ---
 
 ## 개발
