@@ -1,8 +1,8 @@
 ---
 title: 지금까지의 회고
 date: 2026-04-11 21:20:00 +0900
-categories: [블로그, 기술문서]
-tags: [docs, blog]
+categories: [블로그, 기술문서, 프로젝트, 개발, 오픈소스, 버그바운티, 논문, 컨퍼런스, 공모전, 자격증, CTF, Wargame]
+tags: [docs, blog, project, development, bugbounty, research, career, ctf]
 excerpt: 지금까지의 활동 정리_2026년 4월 기준
 published: true
 ---
