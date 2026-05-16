@@ -63,4 +63,4 @@ https://www.korea.kr/briefing/pressReleaseView.do?newsId=156733760<br>
 https://maily.so/hackyboiz/posts/3jrk211er51<br>
 https://m.ticket.yes24.com/notice/Detail.aspx?bid=16153&order=1<br>
 https://news.sbs.co.kr/news/endPage.do?news_id=N1008132951#close<br>
-https://boannews.com/media/view.asp?idx=140885&page=1&kind=1
+https://boannews.com/media/view.asp?idx=140885&page=1&kind=1<br>
