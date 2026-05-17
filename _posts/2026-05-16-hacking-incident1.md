@@ -1,8 +1,8 @@
 ---
 title: "2025년 예스24 랜섬웨어 피해 사건"
 date: 2026-05-16 23:00:00 +0900
-categories: [블로그, 기술문서, 리서치]
-tags: [docs, yes24]
+categories: [블로그, 기술문서]
+tags: [docs, yes24, ransomware]
 excerpt: "2026년 5월 16일 작성한 버전입니다. 재판 결과와 조사 결과 발표 이후 업데이트 예정입니다."
 published: true
 ---
