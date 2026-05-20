@@ -2,7 +2,7 @@
 title: "쿠팡"
 date: 2026-05-16 21:00:00 +0900
 categories: [블로그, 기술문서]
-tags: [docs, yes24, ransomware]
+tags: [docs, Coupang, signing_key]
 excerpt: "2026년 5월 20일 작성한 버전입니다. 재판 결과와 조사 결과 발표 이후 업데이트 예정입니다."
 published: true
 ---
@@ -54,4 +54,4 @@ published: true
 - 관리자 계정 보호 강화
 - 권한 최소화 네트워크 분리
 ## 5. 출처
-https://zdnet.co.kr/view/?no=20260327164201<br>
+https://maily.so/hackyboiz/posts/d5ryjn90r1w<br>
