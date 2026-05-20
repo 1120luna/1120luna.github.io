@@ -55,3 +55,4 @@ published: true
 - 권한 최소화 네트워크 분리
 ## 5. 출처
 https://maily.so/hackyboiz/posts/d5ryjn90r1w<br>
+https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=11803#LINK<br>
