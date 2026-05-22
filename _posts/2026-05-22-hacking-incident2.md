@@ -43,10 +43,11 @@ published: true
 - 고객 신뢰 복원하기 위해 1조 6850억원 규모의 고객 보상안 시행
 ## 4. 제언
 ### 4.1. 관리적 대응방안
-- 주기적인 회사의 전자서명키 관리 필요
+- 주기적인 회사의 전자서명키 관리 
+- 권한 관리·접속 통제·이상 징후 탐지 정책 점검
 ### 4.2. 기술적 대응방안
 - 퇴사자의 전자서명키 삭제
-- 로그 모니터링 및 관제 시스템 점검 필요
+- 로그 모니터링 및 관제 시스템 점검 
 ## 5. 출처
 https://maily.so/hackyboiz/posts/d5ryjn90r1w<br>
 https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=11803#LINK<br>
