@@ -40,6 +40,7 @@ published: true
 - 내부 인증 체계에 대한 보안 점검
 - 관계 기관에 사고 내용 보고
 - 외부 보안 전문가와 유출 범위와 경로 파악
+- 고객 신뢰 복원하기 위해 1조 6850억원 규모의 고객 보상안 시행
 ## 4. 제언
 ### 4.1. 관리적 대응방안
 - 정기적으로 위험 평가 시스템 강화
@@ -50,3 +51,4 @@ https://maily.so/hackyboiz/posts/d5ryjn90r1w<br>
 https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=11803#LINK<br>
 https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=11669<br>
 https://m.boannews.com/html/detail.html?idx=141927<br>
+https://news.coupang.com/archives/58960/<br>
