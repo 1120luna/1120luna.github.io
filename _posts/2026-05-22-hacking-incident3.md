@@ -43,4 +43,4 @@ published: true
 ### 4.2. 기술적 대응방안
 - 퇴사자의 전자서명키 삭제
 ## 5. 출처
-https://maily.so/hackyboiz/posts/d5ryjn90r1w<br>
+https://maily.so/hackyboiz/posts/5xrx6w9lr2v<br>
