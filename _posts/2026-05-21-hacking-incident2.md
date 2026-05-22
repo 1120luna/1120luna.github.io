@@ -11,9 +11,9 @@ published: true
 ## 2. 사건 분석
 ### 2.1. 사건 개요
 - 기간: 2025년 6월 24일 ~ 2025년 11월 19일<br>
-- 대상: 서비스 이용자<br>
+- 대상: 쿠팡 서비스 이용자<br>
 ### 2.2. 피해 현황<br>
-- 유출 규모: 3,370만명
+- 유출 규모: 약 3,386만명 이상 
 - 유출 정보: 이름, 이메일 주소, 휴대전화 번호, 배송지 주소, 일부 주문·배송 이력 등
 ### 2.3. 사고 원인
 - 사고 원인<br>
@@ -48,3 +48,5 @@ published: true
 ## 5. 출처
 https://maily.so/hackyboiz/posts/d5ryjn90r1w<br>
 https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=11803#LINK<br>
+https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=11669<br>
+https://m.boannews.com/html/detail.html?idx=141927<br>
