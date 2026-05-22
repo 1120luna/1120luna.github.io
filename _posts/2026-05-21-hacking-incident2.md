@@ -52,3 +52,4 @@ https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000
 https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=11669<br>
 https://m.boannews.com/html/detail.html?idx=141927<br>
 https://news.coupang.com/archives/58960/<br>
+https://www.jihyanglaw.com/?p=3643
