@@ -1,5 +1,5 @@
 ---
-title: "skt"
+title: "SKT 유심 해킹 사건"
 date: 2026-05-22 18:00:00 +0900
 categories: [블로그, 기술문서]
 tags: [docs, Coupang, signing_key]
@@ -38,7 +38,9 @@ published: true
 
 ## 3. 결론
 ### 3.1. 법적·행정적 제재
-2026년 5월 21일 현재 시간 기준으로 1심 판결이 나오지 않았습니다. 행정 조사 단계로 법원 판결 확정 시 업데이트 예정입니다.
+#### 3.1.1. 개인정보분쟁조정위
+- 총 3,998명(집단분쟁 3건 3,267명, 개인신청 731먕)에 대한 손해배상금 30만 원 지급 결정
+- 개인정보 보호 강화 및 유출 재방방지를 위한 제도개선도 권고
 ### 3.2. 대응 조치(피해기업이 진행한 대응조치)
 - 비정상적인 정보 조회 경로 즉시 차단
 ## 4. 제언
@@ -47,4 +49,6 @@ published: true
 ### 4.2. 기술적 대응방안
 - 퇴사자의 전자서명키 삭제
 ## 5. 출처
+https://maily.so/hackyboiz/posts/vpzl6nj2zk9<br>
 https://maily.so/hackyboiz/posts/5xrx6w9lr2v<br>
+https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=11534#LINK
