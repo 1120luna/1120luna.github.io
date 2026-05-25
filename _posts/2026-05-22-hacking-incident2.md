@@ -1,5 +1,5 @@
 ---
-title: "쿠팡 개인정보 유출 사고"
+title: "2025년 쿠팡 개인정보 유출 사고"
 date: 2026-05-22 18:00:00 +0900
 categories: [블로그, 기술문서]
 tags: [docs, Coupang, signing_key]
