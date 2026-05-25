@@ -2,7 +2,7 @@
 title: "SKT 유심 해킹 사건"
 date: 2026-05-22 18:00:00 +0900
 categories: [블로그, 기술문서]
-tags: [docs, Coupang, signing_key]
+tags: [docs, SKT]
 excerpt: "2026년 5월 22일 작성한 버전입니다. 재판 결과와 조사 결과 발표 이후 업데이트 예정입니다."
 published: true
 ---
