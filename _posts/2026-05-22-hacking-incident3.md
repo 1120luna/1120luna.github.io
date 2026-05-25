@@ -1,5 +1,5 @@
 ---
-title: "SKT 유심 해킹 사건"
+title: "2025년 SKT 유심 해킹 사건"
 date: 2026-05-22 18:00:00 +0900
 categories: [블로그, 기술문서]
 tags: [docs, SKT]
