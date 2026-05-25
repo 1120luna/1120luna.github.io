@@ -7,7 +7,7 @@ excerpt: "2025년에 일어난 SKT 유심 해킹 사건 내용을 정리한 보�
 published: true
 ---
 ## 1. 초록
- 2025년 4월 18일에 비정상 데이터 이동을 최초 탐지하여 조사에 착수하게된 사건으로 
+ 2025년 4월 18일, 비정상적인 데이터 이동이 최초 탐지되면서 조사가 시작된 사건으로, 대규모 유심(USIM) 정보 유출 사고이다. 이번 사고는 개인정보 유출 사실에 대한 지연 대응과 정보통신망법상 신고 의무 미이행, 그리고 전반적인 보안 관리 부실이 복합적으로 작용해 발생한 예고된 인재 사고라는 점에서 큰 문제로 평가된다.
 ## 2. 사건 분석
 ### 2.1. 사건 개요
 - 기간: 2025년 4월 18일<br>
@@ -24,6 +24,8 @@ published: true
   
 ### 2.4. 침해경로 및 공격방식
 #### 2.4.1. 사건 히스토리
+![Error](/assets/img/989669975_463.jpg)
+위의 사진은 사건 타임라인입니다.
 
 | 날짜           | 사건 경과 및 주요 내용                                                           |
 | :------------- | :------------------------------------------------------------------------------ | 
@@ -75,4 +77,4 @@ https://maily.so/hackyboiz/posts/vpzl6nj2zk9<br>
 https://maily.so/hackyboiz/posts/5xrx6w9lr2v<br>
 https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=11534#LINK<br>
 https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=11453#LINK<br>
-https://boannews.com/media/view.asp?idx=138955&page=1&kind=1<br>
+https://boannews.com/media/view.asp?idx=138955&page=1&kind=1
