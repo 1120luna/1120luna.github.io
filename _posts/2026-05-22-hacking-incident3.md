@@ -41,6 +41,9 @@ published: true
 #### 3.1.1. 개인정보분쟁조정위
 - 총 3,998명(집단분쟁 3건 3,267명, 개인신청 731먕)에 대한 손해배상금 30만 원 지급 결정
 - 개인정보 보호 강화 및 유출 재방방지를 위한 제도개선도 권고
+#### 3.1.2. 개인정보보호위
+- 안전조치의무를 소홀히 하여 유심정보를 비롯한 개인정보가 유출된 행위에 대해 과징금 1,347억 9,100만 원을 부과
+- 정보 주체에 대한 유출 통지를 지연하여 신속한 피해 확산방지를 소홀히 한 행위에 대해 과태료 960만 원을 부과
 ### 3.2. 대응 조치(피해기업이 진행한 대응조치)
 - 비정상적인 정보 조회 경로 즉시 차단
 ## 4. 제언
@@ -51,4 +54,5 @@ published: true
 ## 5. 출처
 https://maily.so/hackyboiz/posts/vpzl6nj2zk9<br>
 https://maily.so/hackyboiz/posts/5xrx6w9lr2v<br>
-https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=11534#LINK
+https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=11534#LINK<br>
+https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=11453#LINK<br>
