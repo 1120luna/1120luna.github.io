@@ -57,10 +57,10 @@ published: true
 - 관리자 계정 보호 강화
 - 권한 최소화 네트워크 분리
 ## 5. 출처
-https://zdnet.co.kr/view/?no=20260327164201<br>
-https://zdnet.co.kr/view/?no=20250811154101<br>
-https://www.korea.kr/briefing/pressReleaseView.do?newsId=156733760<br>
-https://maily.so/hackyboiz/posts/3jrk211er51<br>
-https://m.ticket.yes24.com/notice/Detail.aspx?bid=16153&order=1<br>
-https://news.sbs.co.kr/news/endPage.do?news_id=N1008132951#close<br>
-https://boannews.com/media/view.asp?idx=140885&page=1&kind=1<br>
+박서린, 김기찬. 2026. "쿠팡 사태로 '예스24' 랜섬웨어 뒷전...조사만 9개월째." *ZDNet Korea*, 3월 29일. https://zdnet.co.kr/view/?no=20260327164201<br>
+박서린, 김기찬. 2025. "예스24, '해킹 맛집' 오명…왜 또 먹통됐나." *ZDNet Korea*, 8월 11일. https://zdnet.co.kr/view/?no=20250811154101<br>
+개인정보보호위원회. "개인정보위, ‘예스24(주)’ 대상으로 랜섬웨어 공격 개인정보 유출조사 착수." *대한민국 정책브리핑*, 2025년 6월 11일. https://www.korea.kr/briefing/pressReleaseView.do?newsId=156733760<br>
+"☠️ 랜섬웨어? YES!!." 해킹짹짹 2025년 8월 22일. https://maily.so/hackyboiz/posts/3jrk211er51<br>
+예스24. "개인정보 관련 예스24 고객 안내문." *예스24 티켓*, 2025년 6월 15일. https://m.ticket.yes24.com/notice/Detail.aspx?bid=16153&order=1<br>
+이주상. 2025. "'시스템 점검 중' 안내하더니...예스24 뒤늦게 해킹 공지." *SBS NEWS*, 6월 10일. https://news.sbs.co.kr/news/endPage.do?news_id=N1008132951#close<br>
+조재호. 2025. "[2025 보안 사고·이슈 결산-3] 랜섬웨어로 시작된 '디지털 재난." *보안뉴스*. 12월 16일. https://boannews.com/media/view.asp?idx=140885&page=1&kind=1<br>
