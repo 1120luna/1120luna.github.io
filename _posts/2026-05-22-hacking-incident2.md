@@ -52,7 +52,7 @@ published: true
 - 퇴사자의 전자서명키 삭제
 - 로그 모니터링 및 관제 시스템 점검 
 ## 5. 출처
-https://maily.so/hackyboiz/posts/d5ryjn90r1w<br>
+"📨 개인정보 배송 잘 받았습니다..?."해킹짹짹. 2025년 12월 12일. https://maily.so/hackyboiz/posts/d5ryjn90r1w<br>
 https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=11803#LINK<br>
 https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=11669<br>
 https://m.boannews.com/html/detail.html?idx=141927<br>
