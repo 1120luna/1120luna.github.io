@@ -7,7 +7,7 @@ excerpt: "2026 Codegate Conference"
 published: true
 ---
 
-![Error](/assets/img/20260724.jpg)
+![Error](/assets/img/20260724.png)
 <br>
 2026 Codegate 컨퍼런스가 개최되었다.
 코엑스 그랜드볼룸으로 가는 길에 길을 잃지만 않았어도 점심을 먹으러 갈 수 있었을 것 같지만 그래도 1시 전에는 도착할 수 있어서 다행이었다.
