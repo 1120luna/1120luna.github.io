@@ -1,5 +1,5 @@
 ---
-title: 2026 Codegate 후기
+title: "[개인정보보호법 판례 분석] CCTV 영상 제공과 개인정보보호법 위반 성립 여부 (대법원 2024도8121)"
 date: 2026-10-28 22:00:00 +0900
 categories:
   - 개인정보보호법
@@ -8,11 +8,9 @@ tags:
   - pipa
   - privacy-law
   - case-study
-excerpt: 2026 Codegate Conference
+excerpt: 자신에 대한 제3자의 개인정보 보호법 위반 등의 행위를 확인하기 위하여 검찰청과 통신사 대리점에 설치된 CCTV 영상을 제공받은 사건
 published: true
 ---
 ## 1. 사건 개요
-사건명
-사건번호
-법원 및 재판부
-선고일자
+**사건번호**: 대법원 2024도8121 판결 <br>
+**사건명**: 
