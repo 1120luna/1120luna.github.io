@@ -6,6 +6,8 @@ tags: [development, git]
 excerpt: "learngitbranching으로 Git 배우기"
 published: true
 ---
+**문제 링크**: https://learngitbranching.js.org/?locale=ko
+<br><br>
 Git는 프로젝트의 변경 이력을 저장하고 관리하는 버전관리 시스템이다.<br>
 그러므로 프로젝트를 진행하다 보면 파일을 여러 번 수정하거나 실수로 잘못 수정되는 상황이 발생할  변경 이력 관리와 복구할 수 있고, 협업을 진행할 때, 변경 내용을 분리하여 합칠 수 있는 브랜치와 병합 개념으로 인하여 많이 사용한다.
 <br>
