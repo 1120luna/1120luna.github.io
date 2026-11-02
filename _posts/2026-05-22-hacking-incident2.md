@@ -52,8 +52,8 @@ published: true
 - 퇴사자의 전자서명키 삭제
 - 로그 모니터링 및 관제 시스템 점검 
 ## 5. 출처
-"📨 개인정보 배송 잘 받았습니다..?."해킹짹짹. 2025년 12월 12일. ㄱㄱㄱㄱhttps://maily.so/hackyboiz/posts/d5ryjn90r1w<br>
-https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=11803#LINK<br>
-https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=11669<br>
-https://m.boannews.com/html/detail.html?idx=141927<br>
-https://news.coupang.com/archives/58960/<br>
+"📨 개인정보 배송 잘 받았습니다..?."해킹짹짹. 2025년 12월 12일. https://maily.so/hackyboiz/posts/d5ryjn90r1w<br>
+개인정보보호위원회. "[보도참고] 개인정보보호위원회는 쿠팡 개인정보 유출 사고에 대해 철저히 조사중입니다". 2026년 2월 6일. https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=11803#LINK<br>
+개인정보보호위원회. "개인정보위, 쿠팡에 이용약관 및 회원탈퇴 절차 개선, 통지 및 2차 피해 대책 보완 촉구 의결". 2025년 12월 10일. https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=11669<br>
+원병철. 2026. "쿠팡, 지난 해킹서 16만5000명 개인정보 추가 유출 확인". _보안뉴스_. 2월 5일. https://m.boannews.com/html/detail.html?idx=141927<br>
+쿠팡뉴스룸. "[보도자료] 쿠팡, 고객 신뢰 복원 위한 보상안 발표ㆍㆍㆍ1조6850억원 규모 구매이용권 지급". 2025년 12월 29일. https://news.coupang.com/archives/58960/<br>
